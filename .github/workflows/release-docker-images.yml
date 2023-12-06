@@ -8,6 +8,7 @@ on:
       - stable
       - edge
       - dev
+      - codespace-bookish-guide-4j7p59r59gxrcjv7
 
 jobs:
   build:
